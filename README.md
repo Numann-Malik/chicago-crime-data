@@ -2,7 +2,7 @@
  
 - Numann Malik
 
-We prepared Chicago crime data, from , by separating years. Then we
+We prepared Chicago crime data into smaller size files, from the source https://github.com/coding-dojo-data-science/preparing-chicago-crime-data, by separating years. Then we
 
 Dashboard: https://tabsoft.co/3GKETx0
 
